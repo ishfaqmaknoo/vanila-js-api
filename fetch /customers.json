@@ -1,0 +1,32 @@
+[
+  {
+    "id" : 1,
+    "name" : "Ishfaq Maknoo",
+     "company" :"xaan",
+     "phone": 9682520362
+  },
+  {
+    "id" : 2,
+    "name" : "Madiha Ahad",
+     "company" :"xaan",
+     "phone": 9682520362
+  },
+  {
+    "id" : 3,
+    "name" : "Ayisha Maknoo",
+     "company" :"xaan",
+     "phone": 9682520362
+  },
+  {
+    "id" : 4,
+    "name" : "Abdul Ahad Maknoo",
+     "company" :"xaan",
+     "phone": 9682520362
+  },
+  {
+    "id" : 5,
+    "name" : "Family",
+     "company" :"xaan",
+     "phone": 9682520362
+  }
+]
